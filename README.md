@@ -1,2 +1,2 @@
 # Tensorflow-Tutorial
-Tutorial scripts in Tensorflow
+Tensorflow Tutorial scripts and presentation.
